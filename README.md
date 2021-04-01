@@ -1,2 +1,2 @@
 # cp-js
-First project of Cenkirpal
+This is my first project
